@@ -1,0 +1,7 @@
+C:\Users\alish\Desktop\Mphasis\Day-17\Assignment23\Assignment23\bin\Debug\Assignment23.exe.config
+C:\Users\alish\Desktop\Mphasis\Day-17\Assignment23\Assignment23\bin\Debug\Assignment23.exe
+C:\Users\alish\Desktop\Mphasis\Day-17\Assignment23\Assignment23\bin\Debug\Assignment23.pdb
+C:\Users\alish\Desktop\Mphasis\Day-17\Assignment23\Assignment23\obj\Debug\Assignment23.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\Mphasis\Day-17\Assignment23\Assignment23\obj\Debug\Assignment23.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\Mphasis\Day-17\Assignment23\Assignment23\obj\Debug\Assignment23.exe
+C:\Users\alish\Desktop\Mphasis\Day-17\Assignment23\Assignment23\obj\Debug\Assignment23.pdb
